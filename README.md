@@ -3,4 +3,5 @@ Object detection system for blind,using deep learning technology, using voice re
 
 #  Reference
 Optical Character Recognition (OCR) in Python using keras-ocr:https://youtu.be/WtEhQvVUdH4
+
 Real-time YOLOv4 Object Detection on Webcam in Google Colab | Images and Video:https://youtu.be/ebAykr9YZ30
